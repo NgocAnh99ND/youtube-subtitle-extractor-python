@@ -1,0 +1,3063 @@
+0.29 --> 2.58
+Chris Anderson: It's very nice
+to have you here.
+
+3.17 --> 4.29
+Let's see.
+
+4.33 --> 5.79
+First of all, congratulations.
+
+5.79 --> 8.63
+You really pulled off something
+remarkable on that grilling,
+
+8.63 --> 10.84
+you achieved something
+that very few people do,
+
+10.88 --> 15.55
+which was, you pulled off a kind of,
+a bipartisan consensus in US politics.
+
+15.55 --> 16.72
+It was great.
+
+16.76 --> 18.14
+(Laughter)
+
+18.72 --> 21.48
+The bad news was that that consensus
+largely seemed to be:
+
+21.52 --> 23.81
+"We must ban TikTok."
+
+23.85 --> 25.81
+So we're going to come to that in a bit.
+
+25.81 --> 30.40
+And I'm curious, but before we go there,
+we need to know about you.
+
+30.44 --> 33.32
+You seem to me like a remarkable person.
+
+33.36 --> 34.99
+I want to know a bit of your story
+
+35.03 --> 37.66
+and how you came
+to TikTok in the first place.
+
+37.66 --> 39.04
+Shou Chew: Thank you, Chris.
+
+39.03 --> 42.04
+Before we do that, can I just check,
+need to know my audience,
+
+42.08 --> 43.96
+how many of you here use TikTok?
+
+45.12 --> 46.29
+Oh, thank you.
+
+46.29 --> 48.38
+For those who don’t, the Wi-Fi is free.
+
+48.42 --> 50.34
+(Laughter)
+
+51.63 --> 53.51
+CA: There’s another question, which is,
+
+53.51 --> 56.68
+how many of you here have had
+your lives touched through TikTok,
+
+56.72 --> 59.18
+through your kids
+and other people in your lives?
+
+60.52 --> 61.89
+SC: Oh, that's great to see.
+
+61.89 --> 63.64
+CA: It's basically, if you're alive,
+
+63.64 --> 66.85
+you have had some kind of contact
+with TikTok at this point.
+
+66.85 --> 68.27
+So tell us about you.
+
+68.27 --> 71.19
+SC: So my name is Shou,
+and I’m from Singapore.
+
+71.65 --> 73.32
+Roughly 10 years ago,
+
+73.36 --> 77.37
+I met with two engineers
+who were building a product.
+
+77.36 --> 80.33
+And the idea behind this
+was to build a product
+
+80.37 --> 85.16
+that recommended content to people
+not based on who they knew,
+
+85.21 --> 88.21
+which was, if you think
+about it, 10 years ago,
+
+88.21 --> 91.25
+the social graph was all in the rage.
+
+91.30 --> 92.59
+And the idea was, you know,
+
+92.59 --> 96.51
+your content and the feed that you saw
+should be based on people that you knew.
+
+96.93 --> 98.09
+But 10 years ago,
+
+98.14 --> 100.68
+these two engineers thought
+about something different,
+
+100.68 --> 104.23
+which is, instead of showing you --
+
+104.22 --> 106.69
+instead of showing you people you knew,
+
+106.73 --> 108.98
+why don't we show you
+content that you liked?
+
+109.02 --> 111.23
+And that's sort of
+the genesis and the birth
+
+111.23 --> 114.03
+of the early iterations of TikTok.
+
+114.44 --> 116.03
+And about five years ago,
+
+116.07 --> 121.87
+with the advent of 4G, short video,
+mobile phone penetration,
+
+121.87 --> 123.24
+TikTok was born.
+
+123.29 --> 124.58
+And a couple of years ago,
+
+124.62 --> 127.04
+I had the opportunity to run this company,
+
+127.04 --> 129.04
+and it still excites me every single day.
+
+129.75 --> 132.00
+CA: So I want to dig in
+a little more into this,
+
+132.04 --> 135.01
+about what was it that made
+this take-off so explosive?
+
+135.05 --> 139.01
+Because the language I hear
+from people who spent time on it,
+
+139.05 --> 141.18
+it's sort of like I mean,
+
+141.22 --> 147.19
+it is a different level of addiction
+to other media out there.
+
+147.23 --> 150.73
+And I don't necessarily mean this
+in a good way, we'll be coming on to it.
+
+150.73 --> 153.44
+There’s good and bad things
+about this type of addiction.
+
+153.44 --> 154.61
+But it’s the feeling
+
+154.65 --> 157.15
+that within a couple of days
+of experience of TikTok,
+
+157.19 --> 159.70
+it knows you and it surprises you
+
+159.74 --> 162.95
+with things that you didn't know
+you were going to be interested in,
+
+162.95 --> 164.24
+but you are.
+
+164.24 --> 165.45
+How?
+
+165.45 --> 168.08
+Is it really just,
+instead of the social graph --
+
+168.08 --> 170.12
+What are these algorithms doing?
+
+170.12 --> 174.29
+SC: I think to describe this,
+to begin to answer your question,
+
+174.34 --> 176.84
+we have to talk about
+the mission of the company.
+
+176.84 --> 180.34
+Now the mission is to inspire
+creativity and to bring joy.
+
+180.38 --> 184.01
+And I think missions for companies
+like ours [are] really important.
+
+184.06 --> 187.60
+Because you have product managers
+working on the product every single day,
+
+187.60 --> 189.73
+and they need to have
+a North Star, you know,
+
+189.77 --> 192.36
+something to sort of,
+work towards together.
+
+192.35 --> 193.90
+Now, based on this mission,
+
+193.90 --> 197.28
+our vision is to provide
+three things to our users.
+
+197.32 --> 199.45
+We want to provide a window to discover,
+
+199.44 --> 202.61
+and I’ll talk about discovery,
+you talked about this, in a second.
+
+202.66 --> 204.74
+We want to give them a canvas to create,
+
+204.78 --> 208.66
+which is going to be really exciting
+with new technologies in AI
+
+208.70 --> 212.29
+that are going to help people
+create new things.
+
+212.79 --> 215.71
+And the final thing is bridges
+for people to connect.
+
+215.75 --> 218.55
+So that's sort of the vision
+of what we're trying to build.
+
+218.55 --> 222.30
+Now what really makes TikTok
+very unique and very different
+
+222.34 --> 225.35
+is the whole discovery engine behind it.
+
+225.72 --> 228.60
+So there are earlier apps
+that I have a lot of respect for,
+
+228.64 --> 230.77
+but they were built
+for a different purpose.
+
+230.77 --> 233.90
+For example, in the era
+of search, you know,
+
+233.90 --> 237.40
+there was an app that was built
+for people who wanted to search things
+
+237.44 --> 240.86
+so that is more easily found.
+
+240.90 --> 242.70
+And then in the era of social graphs,
+
+242.70 --> 245.28
+it was about connecting people
+and their followers.
+
+245.28 --> 249.49
+Now what we have done is that ...
+based on our machine-learning algorithms,
+
+249.58 --> 251.87
+we're showing people what they liked.
+
+251.87 --> 254.96
+And what this means is that we have
+given the everyday person
+
+255.00 --> 256.92
+a platform to be discovered.
+
+256.92 --> 260.88
+If you have talent, it is very, very easy
+to get discovered on TikTok.
+
+260.92 --> 263.47
+And I'll just give you
+one example of this.
+
+263.47 --> 267.10
+The biggest creator on TikTok
+is a guy called Khaby.
+
+267.43 --> 269.18
+Khaby was from Senegal,
+
+269.18 --> 271.89
+he lives in Italy,
+he was a factory worker.
+
+272.69 --> 277.02
+He, for the longest time,
+didn't even speak in any of his videos.
+
+277.06 --> 279.40
+But what he did was he had talent.
+
+279.44 --> 281.69
+He was funny, he had a good expression,
+
+281.69 --> 284.16
+he had creativity, so he kept posting.
+
+284.20 --> 287.78
+And today he has 160 million
+followers on our platform.
+
+287.82 --> 289.99
+So every single day
+we hear stories like that,
+
+289.99 --> 292.25
+businesses, people with talent.
+
+292.29 --> 295.62
+And I think it's very freeing
+to have a platform
+
+295.67 --> 298.79
+where, as long as you have talent,
+you're going to be heard
+
+298.79 --> 300.67
+and you have the chance to succeed.
+
+300.71 --> 302.92
+And that's what
+we're providing to our users.
+
+302.92 --> 304.84
+CA: So this is the amazing thing to me.
+
+304.88 --> 309.22
+Like, most of us have grown up
+with, say, network television,
+
+309.26 --> 312.85
+where, for decades you've had thousands
+of brilliant, creative people
+
+312.89 --> 314.06
+toiling in the trenches,
+
+314.10 --> 318.48
+trying to imagine stuff
+that will be amazing for an audience.
+
+318.52 --> 322.78
+And none of them ever
+remotely came up with anything
+
+322.82 --> 326.74
+that looked like many of your creators.
+
+327.11 --> 329.41
+So these algorithms,
+
+329.45 --> 333.37
+just by observing people's behavior
+and what they look like,
+
+333.41 --> 337.00
+have discovered things that thousands
+of brilliant humans never discovered.
+
+337.04 --> 340.09
+Tell me some of the things
+that it is looking at.
+
+340.09 --> 342.59
+So obvious things,
+like if someone presses like
+
+342.63 --> 344.51
+or stays on a video for a long time,
+
+344.55 --> 347.09
+that gives you a clue, "more like that."
+
+347.13 --> 348.34
+But is it subject matter?
+
+348.39 --> 350.76
+What are the array of things
+
+350.81 --> 353.22
+that you have noticed
+that you can actually track
+
+353.22 --> 355.27
+that provide useful clues?
+
+355.31 --> 357.77
+SC: I'm going to simplify this a lot,
+
+357.81 --> 360.69
+but the machine learning,
+the recommendation algorithm
+
+360.73 --> 362.11
+is really just math.
+
+362.11 --> 366.69
+So, for example, if you liked
+videos one, two, three and four,
+
+366.74 --> 368.95
+and I like videos one,
+two, three and five,
+
+368.99 --> 371.24
+maybe he liked videos one,
+two, three and six.
+
+371.24 --> 372.74
+Now what's going to happen is,
+
+372.74 --> 375.08
+because we like one, two, three
+at the same time,
+
+375.12 --> 378.00
+he's going to be shown
+four, five, six, and so are we.
+
+378.04 --> 381.42
+And you can think about this
+repeated at scale in real time
+
+381.46 --> 383.34
+across more than a billion people.
+
+383.34 --> 385.38
+That's basically what it is, it's math.
+
+385.42 --> 386.92
+And of course, you know,
+
+386.97 --> 389.76
+AI and machine learning
+has allowed this to be done
+
+389.80 --> 391.51
+at a very, very big scale.
+
+391.55 --> 393.64
+And what we have seen, the result of this,
+
+393.68 --> 396.35
+is that it learns the interest signals
+
+396.39 --> 398.19
+that people exhibit very quickly
+
+398.23 --> 401.35
+and shows you content
+that's really relevant for you
+
+401.36 --> 403.82
+in a very quick way.
+
+404.44 --> 407.78
+CA: So it's a form of collaborative
+filtering, from what you're saying.
+
+407.82 --> 410.61
+The theory behind it is that these
+humans are weird people,
+
+410.61 --> 412.87
+we don't really know
+what they're interested in,
+
+412.91 --> 414.91
+but if we see that one
+human is interested,
+
+414.95 --> 417.79
+with an overlap of someone else,
+chances are, you know,
+
+417.83 --> 419.83
+you could make use of the other pieces
+
+419.87 --> 425.34
+that are in that overlapped
+human's repertoire to feed them,
+
+425.34 --> 426.59
+and they'll be surprised.
+
+426.59 --> 430.26
+But the reason they like it
+is because their pal also liked it.
+
+430.30 --> 433.55
+SC: It's pattern recognition
+based on your interest signals.
+
+433.60 --> 435.14
+And I think the other thing here
+
+435.14 --> 437.81
+is that we don't actually
+ask you 20 questions
+
+437.81 --> 441.31
+on whether you like a piece of content,
+you know, what are your interests,
+
+441.31 --> 442.52
+we don't do that.
+
+442.56 --> 445.44
+We built that experience organically
+into the app experience.
+
+445.44 --> 448.99
+So you are voting with your thumbs
+by watching a video,
+
+449.03 --> 452.36
+by swiping it, by liking it,
+by sharing it,
+
+452.36 --> 454.95
+you are basically exhibiting
+interest signals.
+
+454.99 --> 457.70
+And what it does mathematically
+is to take those signals,
+
+457.75 --> 460.96
+put it in a formula and then matches it
+through pattern recognition.
+
+461.00 --> 463.21
+That's basically the idea behind it.
+
+463.63 --> 469.05
+CA: I mean, lots of start-ups have tried
+to use these types of techniques.
+
+469.09 --> 471.30
+I'm wondering what else played
+a role early on?
+
+471.30 --> 472.76
+I mean, how big a deal was it,
+
+472.76 --> 476.01
+that from the get-go you were
+optimizing for smartphones
+
+476.01 --> 478.72
+so that videos were shot
+in portrait format
+
+478.72 --> 480.60
+and they were short.
+
+480.64 --> 483.60
+Was that an early distinguishing
+thing that mattered?
+
+483.65 --> 486.40
+SC: I think we were the first
+to really try this at scale.
+
+486.94 --> 490.65
+You know, the recommendation algorithm
+is a very important reason
+
+490.65 --> 495.74
+as to why the platform is so popular
+among so many people.
+
+495.78 --> 500.08
+But beyond that, you know,
+you mentioned the format itself.
+
+500.08 --> 502.21
+So we talked about the vision
+of the company,
+
+502.21 --> 504.04
+which is to have a window to discover.
+
+504.08 --> 506.34
+And if you just open the app
+for the first time,
+
+506.38 --> 508.55
+you'll see that it takes up
+your whole screen.
+
+508.55 --> 510.17
+So that's the window that we want.
+
+510.21 --> 512.51
+You can imagine a lot of people
+using that window
+
+512.51 --> 514.34
+to discover new things in their lives.
+
+514.38 --> 517.93
+Then, you know, through
+this recommendation algorithm,
+
+517.97 --> 520.18
+we have found that it connects
+people together.
+
+520.18 --> 521.48
+People find communities,
+
+521.48 --> 525.56
+and I've heard so many stories of people
+who have found their communities
+
+525.60 --> 527.69
+because of the content
+that they're posting.
+
+527.69 --> 529.15
+Now, I'll give you an example.
+
+529.57 --> 533.24
+I was in DC recently, and I met
+with a bunch of creators.
+
+533.24 --> 534.40
+CA: I heard.
+
+534.45 --> 536.12
+(Laughter)
+
+536.16 --> 538.58
+SC: One of them was sitting
+next to me at a dinner,
+
+538.58 --> 539.78
+his name is Samuel.
+
+539.83 --> 544.75
+He runs a restaurant in Phoenix, Arizona,
+and it's a taco restaurant.
+
+544.79 --> 547.58
+He told me he has never done
+this before, first venture.
+
+548.25 --> 550.67
+He started posting
+all this content on TikTok,
+
+550.71 --> 552.09
+and I saw his content,
+
+552.13 --> 556.05
+I was hungry after looking at it,
+it's great content.
+
+556.05 --> 559.31
+And he's generated so much
+interest in his business,
+
+559.30 --> 562.43
+that last year he made something like
+a million dollars in revenue
+
+562.47 --> 563.64
+just via TikTok.
+
+563.68 --> 564.85
+One restaurant.
+
+564.89 --> 567.10
+And again and again, I hear these stories,
+
+567.10 --> 569.52
+you know, by connecting people together,
+
+569.57 --> 571.78
+by giving people the window to discover,
+
+571.77 --> 576.24
+we have given many small businesses
+and many people, your common person,
+
+576.28 --> 578.82
+a voice that they will
+never otherwise have.
+
+578.82 --> 580.99
+And I think that's the power
+of the platform.
+
+581.33 --> 583.37
+CA: So you definitely
+have identified early
+
+583.37 --> 587.12
+just how we're social creatures,
+we need affirmation.
+
+587.17 --> 588.33
+I've heard a story,
+
+588.38 --> 590.34
+and you can tell me whether true or not,
+
+590.34 --> 593.30
+that one of the keys to your early liftoff
+
+593.30 --> 597.51
+was that you wanted to persuade creators
+who were trying out TikTok
+
+597.51 --> 601.60
+that this was a platform
+where they would get response,
+
+601.60 --> 603.81
+early on, when you're trying
+to grow something,
+
+603.85 --> 605.68
+the numbers aren't there for response.
+
+605.68 --> 608.94
+So you had the brilliant idea
+of goosing those numbers a bit,
+
+608.98 --> 611.48
+basically finding ways
+to give people, you know,
+
+611.48 --> 613.27
+a bigger sense of like, more likes,
+
+613.32 --> 615.36
+more engagement
+than was actually the case,
+
+615.36 --> 619.62
+by using AI agents somehow in the process.
+
+619.66 --> 622.37
+Is that a brilliant idea,
+or is that just a myth?
+
+622.41 --> 626.41
+SC: I would describe it
+in a different way.
+
+626.41 --> 629.92
+So there are other platforms
+that exist before TikTok.
+
+629.92 --> 631.84
+And if you think about those platforms,
+
+631.88 --> 635.63
+you sort of have to be famous already
+in order to get followers.
+
+635.63 --> 639.34
+Because the way it’s built
+is that people come and follow people.
+
+639.38 --> 641.76
+And if you aren't already famous,
+
+641.76 --> 644.93
+the chances that you get discovered
+are very, very low.
+
+644.97 --> 646.43
+Now, what we have done, again,
+
+646.43 --> 649.85
+because of the difference in the way
+we're recommending content,
+
+649.89 --> 651.44
+is that we have given anyone,
+
+651.48 --> 656.82
+any single person with enough talent
+a stage to be able to be discovered.
+
+656.82 --> 660.36
+And I think that actually is the single,
+probably the most important thing
+
+660.36 --> 662.45
+contributing to the growth
+of the platform.
+
+662.49 --> 666.08
+And again and again, you will hear stories
+from people who use the platform,
+
+666.12 --> 667.75
+who post regularly on it,
+
+667.79 --> 670.42
+that if they have something
+they want to say,
+
+670.46 --> 672.71
+the platform gives them
+the chance and the stage
+
+672.75 --> 674.21
+to connect with their audience
+
+674.21 --> 678.72
+in a way that I think no other product
+in the past has ever offered them.
+
+679.34 --> 681.97
+CA: So I'm just trying to play back
+what you said there.
+
+681.97 --> 685.10
+You said you were describing
+a different way what I said.
+
+685.14 --> 688.85
+Is it then the case that like,
+to give someone a decent chance,
+
+688.89 --> 692.27
+someone who's brilliant but doesn't come
+with any followers initially,
+
+692.31 --> 695.94
+that you've got some technique
+to identify talent
+
+695.98 --> 698.07
+and that you will almost encourage them,
+
+698.11 --> 700.90
+you will give them some kind of, you know,
+
+700.95 --> 703.49
+artificially increase the number
+of followers or likes
+
+703.53 --> 704.87
+or whatever that they have,
+
+704.87 --> 706.62
+so that others are encouraged to go,
+
+706.62 --> 708.16
+"Wow, there's something there."
+
+708.16 --> 711.50
+Like it's this idea of critical mass
+that kind of, every entrepreneur,
+
+711.50 --> 713.54
+every party planner kind of knows about of
+
+713.54 --> 716.17
+"No, no, this is the hot place
+in town, everyone come,"
+
+716.17 --> 718.80
+and that that is how
+you actually gain critical mass?
+
+718.84 --> 722.59
+SC: We want to make sure
+that every person who posts a video
+
+722.63 --> 727.35
+is given an equal chance to be able
+to have some audience to begin with.
+
+727.39 --> 730.77
+But this idea that you
+are maybe alluding to,
+
+730.81 --> 733.81
+that we can get people to like something,
+
+733.85 --> 735.44
+it doesn't really work like that.
+
+735.44 --> 738.36
+CA: Could you get AI agents
+to like something?
+
+738.40 --> 742.45
+Could you seed the network with extra AI
+agents that could kind of, you know,
+
+742.49 --> 744.45
+give someone early encouragement?
+
+744.49 --> 749.04
+SC: Ultimately, what the machine does
+is it recognizes people's interests.
+
+749.08 --> 752.25
+So if you post something
+that's not interesting to a lot of people,
+
+752.29 --> 754.12
+even if you gave it a lot of exposure,
+
+754.17 --> 756.59
+you're not going to get
+the virality that you want.
+
+756.59 --> 758.38
+So it's a lot of ...
+
+758.42 --> 761.30
+There is no push here.
+
+761.34 --> 764.01
+It's not like you can go
+and push something,
+
+764.01 --> 766.51
+because I like Chris,
+I'm going to push your content,
+
+766.55 --> 767.80
+it doesn't work like that.
+
+767.80 --> 770.43
+You've got to have a message
+that resonates with people,
+
+770.47 --> 771.64
+and if it does,
+
+771.68 --> 774.39
+then it will automatically
+just have the virality itself.
+
+774.39 --> 776.65
+That's the beauty
+of user-generated content.
+
+776.69 --> 780.73
+It's not something that can be
+engineered or over-thought.
+
+780.78 --> 784.24
+It really is something that has
+to resonate with the audience.
+
+784.24 --> 786.16
+And if it does, then it goes viral.
+
+786.20 --> 790.79
+CA: Speaking privately with an investor
+who knows your company quite well,
+
+790.79 --> 795.25
+who said that actually
+the level of sophistication
+
+795.25 --> 796.79
+of the algorithms you have going
+
+796.83 --> 798.75
+is just another order of magnitude
+
+798.79 --> 803.17
+to what competitors like, you know,
+Facebook or YouTube have going.
+
+803.92 --> 807.18
+Is that just hype
+or do you really believe you --
+
+807.18 --> 810.60
+like, how complex are these algorithms?
+
+811.01 --> 813.02
+SC: Well, I think in terms of complexity,
+
+813.02 --> 815.56
+there are many companies
+who have a lot of resources
+
+815.60 --> 816.77
+and a lot of talent.
+
+816.77 --> 819.69
+They will figure out even
+the most complex algorithms.
+
+819.98 --> 823.78
+I think what is very different
+is your mission of your company,
+
+823.82 --> 825.44
+how you started the company.
+
+825.45 --> 827.74
+Like I said, you know,
+we started with this idea
+
+827.74 --> 829.87
+that this was the main use case.
+
+830.16 --> 834.62
+The most important use case is you come
+and you get to see recommended content.
+
+834.66 --> 836.50
+Now for some other apps out there,
+
+836.54 --> 839.08
+they are very significant
+and have a lot of users,
+
+839.08 --> 842.00
+they are built for a different
+original purpose.
+
+842.00 --> 844.13
+And if you are built
+for something different,
+
+844.13 --> 845.67
+then your users are used to that
+
+845.72 --> 849.05
+because the community comes in
+and they expect that sort of experience.
+
+849.05 --> 850.76
+So I think the pivot away from that
+
+850.76 --> 854.14
+is not really just a matter
+of engineering and algorithms,
+
+854.14 --> 857.98
+it’s a matter of what your company
+is built to begin with.
+
+858.02 --> 861.02
+Which is why I started this by saying
+you need to have a vision,
+
+861.06 --> 863.61
+you need to have a mission,
+and that's the North Star.
+
+863.65 --> 865.24
+You can't just shift it halfway.
+
+865.24 --> 866.40
+CA: Right.
+
+866.45 --> 867.61
+And is it fair to say
+
+867.61 --> 870.37
+that because your start point
+has been interest algorithms
+
+870.37 --> 872.28
+rather than social graph algorithms,
+
+872.33 --> 875.12
+you've been able to avoid
+some of the worst of the sort of,
+
+875.12 --> 877.91
+the filter bubbles that have happened
+in other social media
+
+877.96 --> 881.29
+where you have tribes kind of declaring
+war on each other effectively.
+
+881.29 --> 885.59
+And so much of the noise
+and energy is around that.
+
+885.63 --> 888.38
+Do you believe that you've largely
+avoided that on TikTok?
+
+888.42 --> 892.68
+SC: The diversity of content
+that our users see is very key.
+
+892.72 --> 896.93
+You know, in order for the discovery --
+the mission is to discover --
+
+896.98 --> 899.02
+sorry, the vision is to discover.
+
+899.06 --> 900.69
+So in order to facilitate that,
+
+900.73 --> 902.44
+it is very important to us
+
+902.48 --> 905.61
+that what the users see
+is a diversity of content.
+
+906.28 --> 908.74
+Now, generally speaking, you know,
+
+908.78 --> 910.78
+there are certain issues
+that you mentioned
+
+910.82 --> 912.45
+that the industry faces, you know.
+
+912.49 --> 914.91
+There are some bad actors
+who come on the internet,
+
+914.95 --> 916.08
+they post bad content.
+
+916.12 --> 920.17
+Now our approach is that we have
+very clear community guidelines.
+
+920.16 --> 922.54
+We're very transparent
+about what is allowed
+
+922.54 --> 924.50
+and what is not allowed on our platform.
+
+924.54 --> 927.55
+No executives make any ad hoc decisions.
+
+927.59 --> 928.72
+And based on that,
+
+928.76 --> 933.09
+we have built a team that is tens
+of thousands of people plus machines
+
+933.14 --> 935.60
+in order to identify content that is bad
+
+935.64 --> 938.85
+and actively and proactively
+remove it from the platform.
+
+938.89 --> 941.60
+CA: Talk about what some
+of those key guidelines are.
+
+941.60 --> 943.73
+SC: We have it published on our website.
+
+943.77 --> 949.44
+In March, we just iterated a new version
+to make it more readable.
+
+949.44 --> 953.16
+So there are many things like,
+for example, no pornography,
+
+953.16 --> 956.70
+clearly no child sexual abuse material
+and other bad things,
+
+956.70 --> 958.79
+no violence, for example.
+
+958.79 --> 961.87
+We also make it clear
+that it's a differentiated experience
+
+961.87 --> 963.71
+if you're below 18 years old.
+
+963.75 --> 965.88
+So if you're below
+18 years old, for example,
+
+965.92 --> 969.17
+your entire app experience
+is actually more restricted.
+
+969.17 --> 971.63
+We don't allow, as an example,
+
+971.63 --> 975.68
+users below 16, by default, to go viral.
+
+975.68 --> 976.89
+We don't allow that.
+
+976.93 --> 978.10
+If you're below 16,
+
+978.14 --> 981.89
+we don’t allow you to use
+the instant messaging feature in app.
+
+982.60 --> 986.11
+If you’re below 18, we don’t allow you
+to use the livestreaming features.
+
+986.15 --> 988.82
+And of course, we give parents
+a whole set of tools
+
+988.82 --> 991.03
+to control their teenagers’
+experience as well.
+
+991.07 --> 993.90
+CA: How do you know the age of your users?
+
+994.36 --> 998.95
+SC: In our industry, we rely mainly
+on something called age gating,
+
+998.99 --> 1001.62
+which is when you sign up
+for the app for the first time
+
+1001.62 --> 1002.96
+and we ask you for the age.
+
+1002.96 --> 1004.12
+Now, beyond that,
+
+1004.17 --> 1009.59
+we also have built tools to go
+through your public profile for example,
+
+1009.59 --> 1010.76
+when you post a video,
+
+1010.80 --> 1015.05
+we try to match the age that you said
+with the video that you just posted.
+
+1015.09 --> 1017.43
+Now, there are questions
+of can we do more?
+
+1017.47 --> 1020.72
+And the question always has,
+for every company, by the way,
+
+1020.77 --> 1023.60
+in our industry, has to be
+balanced with privacy.
+
+1023.98 --> 1029.36
+Now, if, for example, we scan
+the faces of every single user,
+
+1029.40 --> 1033.36
+then we will significantly increase
+the ability to tell their age.
+
+1033.40 --> 1036.11
+But we will also significantly
+increase the amount of data
+
+1036.16 --> 1037.45
+that we collect on you.
+
+1037.49 --> 1039.20
+Now, we don't want to collect data.
+
+1039.20 --> 1041.87
+We don't want to scan data
+on your face to collect that.
+
+1041.87 --> 1043.75
+So that balance has to be maintained,
+
+1043.75 --> 1046.04
+and it's a challenge
+that we are working through
+
+1046.04 --> 1049.42
+together with industry,
+together with the regulators as well.
+
+1049.92 --> 1052.05
+CA: So look, one thing
+that is unquestionable
+
+1052.05 --> 1055.88
+is that you have created a platform
+for literally millions of people
+
+1055.88 --> 1058.76
+who never thought they were going
+to be a content creator.
+
+1058.80 --> 1060.43
+You've given them an audience.
+
+1060.47 --> 1063.35
+I'd actually like to hear from you
+one other favorite example
+
+1063.39 --> 1066.10
+of someone who TikTok
+has given an audience to
+
+1066.14 --> 1067.60
+that never had that before.
+
+1067.60 --> 1069.86
+SC: So when again,
+
+1069.90 --> 1071.90
+when I travel around the world,
+
+1071.94 --> 1074.90
+I meet with a whole bunch
+of creators on our platform.
+
+1075.32 --> 1081.12
+I was in South Korea just yesterday,
+and before that I met with -- yes,
+
+1081.12 --> 1082.87
+before that I met with a bunch of --
+
+1082.87 --> 1084.91
+People don't expect,
+for example, teachers.
+
+1084.95 --> 1088.12
+There is an English teacher from Arkansas.
+
+1088.12 --> 1091.21
+Her name is Claudine,
+and I met her in person.
+
+1091.25 --> 1093.92
+She uses our platform
+to reach out to students.
+
+1094.38 --> 1097.51
+There is another teacher
+called Chemical Kim.
+
+1097.55 --> 1100.30
+And Chemical Kim teaches chemistry.
+
+1100.60 --> 1102.47
+What she does is she uses our platform
+
+1102.51 --> 1105.02
+to reach out to a much
+broader student base
+
+1105.06 --> 1106.60
+than she has in her classroom.
+
+1106.64 --> 1108.73
+And they're both very, very popular.
+
+1108.77 --> 1109.94
+You know, in fact,
+
+1109.94 --> 1114.53
+what we have realized is that STEM content
+
+1114.57 --> 1119.11
+has over 116 billion views
+on our platform globally.
+
+1119.11 --> 1120.37
+And it's so significant --
+
+1120.41 --> 1121.57
+CA: In a year?
+
+1121.58 --> 1122.99
+SC: Cumulatively.
+
+1123.03 --> 1124.24
+CA: [116] billion.
+
+1124.29 --> 1127.75
+SC: It's so significant, that in the US
+we have started testing,
+
+1127.79 --> 1130.88
+creating a feed just for STEM content.
+
+1130.88 --> 1132.04
+Just for STEM content.
+
+1132.09 --> 1135.21
+I’ve been using it for a while,
+and I learned something new.
+
+1135.26 --> 1136.88
+You want to know what it is?
+
+1136.92 --> 1140.55
+Apparently if you flip
+an egg on your tray,
+
+1140.55 --> 1142.72
+the egg will last longer.
+
+1142.72 --> 1143.89
+It's science,
+
+1143.93 --> 1146.56
+there’s a whole video on this,
+I learned this on TikTok.
+
+1146.56 --> 1147.81
+You can search for this.
+
+1147.81 --> 1150.10
+CA: You want to know
+something else about an egg?
+
+1150.14 --> 1153.23
+If you put it in just one hand
+and squeeze it as hard as you can,
+
+1153.23 --> 1154.40
+it will never break.
+
+1154.44 --> 1156.36
+SC: Yes, I think I read about that, too.
+
+1156.36 --> 1157.53
+CA: It's not true.
+
+1157.57 --> 1158.69
+(Laughter)
+
+1158.74 --> 1160.11
+SC: We can search for it.
+
+1161.07 --> 1164.58
+CA: But look, here's here's the flip side
+to all this amazingness.
+
+1164.62 --> 1166.83
+And honestly, this is the key thing,
+
+1166.87 --> 1171.37
+that I want to have an honest,
+heart-to-heart conversation with you
+
+1171.42 --> 1173.21
+because it's such an important issue,
+
+1173.21 --> 1175.67
+this question of human addiction.
+
+1175.71 --> 1178.09
+You know, we are ...
+
+1178.13 --> 1181.76
+animals with a prefrontal cortex.
+
+1182.59 --> 1183.80
+That's how I think of us.
+
+1183.80 --> 1188.02
+We have these addictive instincts
+that go back millions of years,
+
+1188.06 --> 1194.73
+and we often are in the mode
+of trying to modulate our own behavior.
+
+1194.73 --> 1199.15
+It turns out that the internet
+is incredibly good
+
+1199.19 --> 1201.65
+at activating our animal cells
+
+1201.70 --> 1204.49
+and getting them so damn excited.
+
+1204.53 --> 1207.24
+And your company,
+the company you've built,
+
+1207.24 --> 1212.58
+is better at it than any other company
+on the planet, I think.
+
+1213.00 --> 1216.00
+So what are the risks of this?
+
+1216.00 --> 1217.75
+I mean, how ...
+
+1217.80 --> 1220.80
+From a company point of view, for example,
+
+1220.84 --> 1224.05
+it's in your interest to have people
+on there as long as possible.
+
+1224.09 --> 1226.05
+So some would say, as a first pass,
+
+1226.10 --> 1228.89
+you want people to be addicted
+as long as possible.
+
+1228.93 --> 1232.89
+That's how advertising money
+will flow and so forth,
+
+1232.94 --> 1235.40
+and that's how your creators
+will be delighted.
+
+1236.48 --> 1237.86
+What is too much?
+
+1237.86 --> 1239.65
+SC: I don't actually agree with that.
+
+1240.40 --> 1241.94
+You know, as a company,
+
+1241.99 --> 1245.20
+our goal is not to optimize
+and maximize time spent.
+
+1245.24 --> 1246.66
+It is not.
+
+1246.70 --> 1250.70
+In fact, in order to address people
+spending too much time on our platform,
+
+1250.70 --> 1252.29
+we have done a number of things.
+
+1252.29 --> 1255.12
+I was just speaking with some
+of your colleagues backstage.
+
+1255.17 --> 1258.54
+One of them told me
+she has encountered this as well.
+
+1258.59 --> 1260.76
+If you spend too much time
+on our platform,
+
+1260.76 --> 1264.76
+we will proactively send you videos
+to tell you to get off the platform.
+
+1265.09 --> 1266.34
+We will.
+
+1266.39 --> 1268.18
+And depending on the time of the day,
+
+1268.18 --> 1270.18
+if it's late at night,
+it will come sooner.
+
+1270.22 --> 1272.14
+We have also built in tools to limit,
+
+1272.14 --> 1275.81
+if you below 18 years old, by default,
+
+1275.81 --> 1278.19
+we set a 60-minute default time limit.
+
+1278.19 --> 1279.36
+CA: How many?
+
+1279.40 --> 1280.57
+SC: Sixty minutes.
+
+1280.61 --> 1282.90
+And we've given parents tools
+and yourself tools,
+
+1282.94 --> 1285.57
+if you go to settings,
+you can set your own time limit.
+
+1285.57 --> 1287.78
+We've given parents tools
+so that you can pair,
+
+1287.82 --> 1291.04
+for the parents who don't know this,
+go to settings, family pairing,
+
+1291.04 --> 1293.37
+you can pair your phone
+with your teenager's phone
+
+1293.41 --> 1294.58
+and set the time limit.
+
+1294.58 --> 1298.38
+And we really encourage parents to have
+these conversations with their teenagers
+
+1298.42 --> 1300.46
+on what is the right amount
+of screen time.
+
+1300.50 --> 1304.13
+I think there’s a healthy relationship
+that you should have with your screen,
+
+1304.13 --> 1307.13
+and as a business, we believe
+that that balance needs to be met.
+
+1307.13 --> 1310.89
+So it's not true that we just want
+to maximize time spent.
+
+1310.89 --> 1312.93
+CA: If you were advising parents here
+
+1312.97 --> 1315.98
+what time they should actually
+recommend to their teenagers,
+
+1316.02 --> 1317.90
+what do you think is the right setting?
+
+1317.90 --> 1319.06
+SC: Well, 60 minutes,
+
+1319.11 --> 1320.90
+we did not come up with it ourselves.
+
+1320.90 --> 1324.32
+So I went to the Digital Wellness Lab
+at the Boston Children's Hospital,
+
+1324.32 --> 1326.20
+and we had this conversation with them.
+
+1326.24 --> 1329.03
+And 60 minutes was the recommendation
+that they gave to us,
+
+1329.03 --> 1330.95
+which is why we built this into the app.
+
+1330.95 --> 1332.83
+So 60 minutes, take it for what it is,
+
+1332.83 --> 1336.12
+it’s something that we’ve had some
+discussions of experts.
+
+1336.12 --> 1337.71
+But I think for all parents here,
+
+1337.75 --> 1341.96
+it is very important to have these
+conversations with your teenage children
+
+1341.96 --> 1346.55
+and help them develop a healthy
+relationship with screens.
+
+1346.55 --> 1349.64
+I think we live in an age
+where it's completely inevitable
+
+1349.64 --> 1354.26
+that we're going to interact
+with screens and digital content,
+
+1354.31 --> 1357.81
+but I think we should develop
+healthy habits early on in life,
+
+1357.81 --> 1359.73
+and that's something I would encourage.
+
+1359.73 --> 1362.52
+CA: Curious to ask the audience,
+
+1362.57 --> 1366.19
+which of you who have ever had
+that video on TikTok appear
+
+1366.24 --> 1367.74
+saying, “Come off.”
+
+1368.65 --> 1370.28
+OK, I mean ...
+
+1370.95 --> 1374.08
+So maybe a third of the audience
+seem to be active TikTok users,
+
+1374.12 --> 1378.37
+and about 20 people maybe
+put their hands up there.
+
+1378.96 --> 1380.88
+Are you sure that --
+
+1380.88 --> 1385.59
+like, it feels to me
+like this is a great thing to have,
+
+1385.63 --> 1387.17
+but are you ...
+
+1387.21 --> 1389.22
+isn't there always
+going to be a temptation
+
+1389.22 --> 1391.47
+in any given quarter or whatever,
+
+1391.47 --> 1393.64
+to just push it a bit at the boundary
+
+1393.68 --> 1395.89
+and just dial back a bit on that
+
+1395.93 --> 1399.10
+so that you can hit revenue goals, etc?
+
+1399.73 --> 1402.61
+Are you saying that this
+is used scrupulously?
+
+1402.65 --> 1405.57
+SC: I think, you know, in terms ...
+
+1405.61 --> 1408.40
+Even if you think about it
+from a commercial point of view,
+
+1408.40 --> 1411.70
+it is always best when your customers have
+a very healthy relationship
+
+1411.70 --> 1412.87
+with your product.
+
+1412.91 --> 1414.62
+It's always best when it's healthy.
+
+1414.62 --> 1417.58
+So if you think about very
+short-term retention, maybe,
+
+1417.58 --> 1419.91
+but that's not the way we think about it.
+
+1420.29 --> 1422.79
+If you think about it from
+a longer-term perspective,
+
+1422.79 --> 1425.88
+what you really want to have
+is a healthy relationship, you know.
+
+1425.88 --> 1428.63
+You don’t want people
+to develop very unhealthy habits,
+
+1428.63 --> 1431.09
+and then at some point
+they're going to drop it.
+
+1431.13 --> 1433.55
+So I think everything in moderation.
+
+1433.60 --> 1436.60
+CA: There's a claim out there
+that in China,
+
+1436.60 --> 1441.06
+there's a much more rigorous standards
+imposed on the amount of time
+
+1441.06 --> 1446.36
+that children, especially, can spend
+on the TikTok equivalent of that.
+
+1446.36 --> 1451.07
+SC: That is unfortunately a misconception.
+
+1451.07 --> 1454.20
+So that experience that is being
+mentioned for Douyin,
+
+1454.20 --> 1455.45
+which is a different app,
+
+1455.45 --> 1458.08
+is for an under 14-year-old experience.
+
+1458.49 --> 1460.79
+Now, if you compare
+that in the United States,
+
+1460.79 --> 1463.29
+we have an under-13 experience in the US.
+
+1463.33 --> 1466.42
+It's only available in the US,
+it's not available here in Canada,
+
+1466.42 --> 1468.09
+in Canada, we just don't allow it.
+
+1468.13 --> 1470.51
+If you look at the under-13
+experience in the US,
+
+1470.55 --> 1474.30
+it's much more restricted
+than the under-14 experience in China.
+
+1474.34 --> 1475.68
+It's so restrictive,
+
+1475.72 --> 1478.72
+that every single piece
+of content is vetted
+
+1478.72 --> 1483.02
+by our third-party child safety expert.
+
+1483.44 --> 1487.90
+And we don't allow any
+under-13s in the US to publish,
+
+1487.90 --> 1489.32
+we don’t allow them to post,
+
+1489.32 --> 1491.65
+and we don't allow them
+to use a lot of features.
+
+1491.65 --> 1494.28
+So I think that that report,
+I've seen that report too,
+
+1494.28 --> 1495.99
+it's not doing a fair comparison.
+
+1496.32 --> 1498.03
+CA: What do you make of this issue?
+
+1498.03 --> 1500.91
+You know, you've got these
+millions of content creators
+
+1500.95 --> 1505.00
+and all of them, in a sense,
+are in a race for attention,
+
+1505.04 --> 1507.96
+and that race can pull them
+in certain directions.
+
+1507.96 --> 1512.26
+So, for example, teenage girls on TikTok,
+
+1512.26 --> 1515.88
+sometimes people worry
+that, to win attention,
+
+1515.88 --> 1517.97
+they've discovered
+that by being more sexual
+
+1518.01 --> 1519.68
+that they can gain extra viewers.
+
+1520.10 --> 1521.47
+Is this a concern?
+
+1521.47 --> 1523.73
+Is there anything you can do about this?
+
+1523.77 --> 1527.06
+SC: We address this in our community
+guidelines as well.
+
+1528.15 --> 1532.28
+You know, if you look at sort of
+the sexualized content on our guidelines,
+
+1532.32 --> 1533.86
+if you’re below a certain age,
+
+1533.90 --> 1537.16
+you know, for certain themes
+that are mature,
+
+1537.20 --> 1539.33
+we actually remove that
+from your experience.
+
+1539.33 --> 1540.87
+Again, I come back to this,
+
+1540.91 --> 1543.04
+you know, we want to have a safe platform.
+
+1543.04 --> 1544.83
+In fact, at my congressional hearing,
+
+1544.87 --> 1548.63
+I made four commitments to our users
+and to the politicians in the US.
+
+1548.63 --> 1552.96
+And the first one is that we take safety,
+especially for teenagers,
+
+1553.01 --> 1554.17
+extremely seriously,
+
+1554.21 --> 1556.63
+and we will continue to prioritize that.
+
+1556.63 --> 1560.43
+You know, I believe that we need
+to give our teenage users,
+
+1560.47 --> 1561.93
+and our users in general,
+
+1561.97 --> 1563.14
+a very safe experience,
+
+1563.18 --> 1564.68
+because if we don't do that,
+
+1564.68 --> 1565.98
+then we cannot fulfill --
+
+1565.98 --> 1568.90
+the mission is to inspire
+creativity and to bring joy.
+
+1568.94 --> 1571.77
+If they don't feel safe,
+I cannot fulfill my mission.
+
+1571.82 --> 1574.57
+So it's all very organic
+to me as a business
+
+1574.57 --> 1575.86
+to make sure I do that.
+
+1575.86 --> 1579.37
+CA: But in the strange interacting world
+of human psychology and so forth,
+
+1579.37 --> 1580.78
+weird memes can take off.
+
+1580.83 --> 1583.29
+I mean, you had this outbreak
+a couple years back
+
+1583.33 --> 1586.75
+with these devious licks where kids
+were competing with each other
+
+1586.79 --> 1589.04
+to do vandalism in schools and, you know,
+
+1589.08 --> 1590.67
+get lots of followers from it.
+
+1590.71 --> 1593.17
+How on Earth do you battle
+something like that?
+
+1593.96 --> 1596.84
+SC: So dangerous challenges
+are not allowed on our platform.
+
+1596.88 --> 1599.84
+If you look at our guidelines,
+it's violative.
+
+1599.89 --> 1603.22
+We proactively invest resources
+to identify them
+
+1603.22 --> 1605.02
+and remove them from our platform.
+
+1605.06 --> 1608.39
+In fact, if you search for dangerous
+challenges on our platform today,
+
+1608.39 --> 1611.27
+we will redirect you
+to a safety resource page.
+
+1611.31 --> 1614.90
+And we actually worked with some creators
+as well to come up with campaigns.
+
+1614.90 --> 1616.40
+This is another campaign.
+
+1616.44 --> 1619.15
+It's the "Stop, Think,
+Decide Before You Act" campaign
+
+1619.15 --> 1621.57
+where we work with the creators
+to produce videos,
+
+1621.57 --> 1624.49
+to explain to people
+that some things are dangerous,
+
+1624.54 --> 1625.75
+please don't do it.
+
+1625.79 --> 1628.91
+And we post these videos
+actively on our platform as well.
+
+1629.79 --> 1631.00
+CA: That's cool.
+
+1631.04 --> 1632.92
+And you've got lots of employees.
+
+1632.96 --> 1634.80
+I mean, how many employees do you have
+
+1634.80 --> 1638.55
+who are specifically looking at these
+content moderation things,
+
+1638.55 --> 1640.05
+or is that the wrong question?
+
+1640.09 --> 1642.47
+Are they mostly identified by AI initially
+
+1642.51 --> 1645.47
+and then you have a group
+who are overseeing
+
+1645.52 --> 1647.10
+and making the final decision?
+
+1647.10 --> 1651.14
+SC: The group is based in Ireland
+and it's a lot of people,
+
+1651.19 --> 1652.77
+it's tens of thousands of people.
+
+1652.77 --> 1653.94
+CA: Tens of thousands?
+
+1653.98 --> 1657.98
+SC: It's one of the most important
+cost items on my PnL,
+
+1658.03 --> 1659.82
+and I think it's completely worth it.
+
+1659.82 --> 1662.66
+Now, most of the moderation
+has to be done by machines.
+
+1662.66 --> 1665.28
+The machines are good, they're quite good,
+
+1665.33 --> 1667.12
+but they're not as good as, you know,
+
+1667.12 --> 1668.79
+they're not perfect at this point.
+
+1668.79 --> 1672.00
+So you have to complement them
+with a lot of human beings today.
+
+1672.00 --> 1676.38
+And I think, by the way,
+a lot of the progress in AI in general
+
+1676.42 --> 1680.42
+is making that kind of content moderation
+capabilities a lot better.
+
+1680.47 --> 1682.34
+So we're going to get more precise.
+
+1682.38 --> 1684.39
+You know, we’re going
+to get more specific.
+
+1684.43 --> 1688.73
+And it’s going to be able
+to handle larger scale.
+
+1688.77 --> 1692.85
+And that's something I think
+that I'm personally looking forward to.
+
+1693.81 --> 1698.11
+CA: What about this
+perceived huge downside
+
+1698.15 --> 1701.82
+of use of, certainly Instagram,
+I think TikTok as well.
+
+1701.86 --> 1705.58
+What people worry that you
+are amplifying insecurities,
+
+1705.58 --> 1707.20
+especially of teenagers
+
+1707.24 --> 1709.16
+and perhaps especially of teenage girls.
+
+1709.16 --> 1713.08
+They see these amazing people
+on there doing amazing things,
+
+1713.12 --> 1714.38
+they feel inadequate,
+
+1714.42 --> 1717.96
+there's all these reported cases
+of depression, insecurity,
+
+1718.00 --> 1719.76
+suicide and so forth.
+
+1719.80 --> 1721.63
+SC: I take this extremely seriously.
+
+1722.97 --> 1725.34
+So in our guidelines,
+
+1725.39 --> 1730.47
+for certain themes that we think
+are mature and not suitable for teenagers,
+
+1730.52 --> 1733.77
+we actually proactively remove it
+from their experience.
+
+1734.39 --> 1736.94
+At the same time,
+if you search certain terms,
+
+1736.98 --> 1741.07
+we will make sure that you get redirected
+to a resource safety page.
+
+1741.07 --> 1745.41
+Now we are always working with experts
+to understand some of these new trends
+
+1745.41 --> 1746.57
+that could emerge
+
+1746.62 --> 1750.41
+and proactively try to manage them,
+if that makes sense.
+
+1750.41 --> 1753.37
+Now, this is a problem that predates us,
+
+1753.37 --> 1754.54
+that predates TikTok.
+
+1754.54 --> 1756.25
+It actually predates the internet.
+
+1756.25 --> 1758.63
+But it's our responsibility to make sure
+
+1758.63 --> 1761.88
+that we invest enough to understand
+and to address the concerns,
+
+1761.92 --> 1763.97
+to keep the experience as safe as possible
+
+1763.97 --> 1765.47
+for as many people as possible.
+
+1766.30 --> 1767.51
+CA: Now, in Congress,
+
+1767.51 --> 1770.97
+the main concern seemed to be
+not so much what we've talked about,
+
+1770.97 --> 1773.43
+but data, the data of users,
+
+1773.48 --> 1776.73
+the fact that you're owned
+by ByteDance, Chinese company,
+
+1776.77 --> 1779.52
+and the concern that at any moment
+
+1779.52 --> 1783.19
+Chinese government might require
+or ask for data.
+
+1783.19 --> 1785.03
+And in fact, there have been instances
+
+1785.03 --> 1786.57
+where, I think you've confirmed,
+
+1786.57 --> 1790.53
+that some data of journalists
+on the platform
+
+1790.58 --> 1793.58
+was made available
+to ByteDance's engineers
+
+1793.58 --> 1795.79
+and from there, who knows what.
+
+1796.16 --> 1800.42
+Now, your response to this
+was to have this Project Texas,
+
+1800.46 --> 1805.22
+where you're moving data to be controlled
+by Oracle here in the US.
+
+1805.26 --> 1810.39
+Can you talk about that project
+and why, if you believe it so,
+
+1810.43 --> 1813.43
+why we should not worry
+so much about this issue?
+
+1813.43 --> 1816.48
+SC: I will say a couple of things
+about this, if you don't mind.
+
+1816.52 --> 1819.23
+The first thing I would say
+is that the internet is built
+
+1819.23 --> 1820.73
+on global interoperability,
+
+1820.77 --> 1824.94
+and we are not the only company
+that relies on the global talent pool
+
+1824.94 --> 1826.90
+to make our products as good as possible.
+
+1826.95 --> 1828.95
+Technology is a very collaborative effort.
+
+1828.99 --> 1832.45
+I think many people here
+would say the same thing.
+
+1832.49 --> 1835.66
+So we are not the first company
+to have engineers in all countries,
+
+1835.66 --> 1836.83
+including in China.
+
+1836.87 --> 1838.04
+We're not the first one.
+
+1838.08 --> 1840.46
+Now, I understand some of these concerns.
+
+1840.46 --> 1844.92
+You know, the data access by employees
+is not data accessed by government.
+
+1844.92 --> 1847.88
+This is very different,
+and there’s a clear difference in this.
+
+1847.92 --> 1850.89
+But we hear the concerns
+that are raised in the United States.
+
+1850.93 --> 1854.35
+We did not try to avoid discussing.
+
+1854.39 --> 1857.27
+We did not try to argue our way out of it.
+
+1857.31 --> 1860.15
+What we did was we built
+an unprecedented project
+
+1860.19 --> 1864.36
+where we localize American data
+to be stored on American soil
+
+1864.40 --> 1868.40
+by an American company
+overseen by American personnel.
+
+1868.40 --> 1871.62
+So this kind of protection
+for American data
+
+1871.66 --> 1875.87
+is beyond what any other company
+in our industry has ever done.
+
+1876.45 --> 1879.00
+Well, money is not the only issue here,
+
+1879.04 --> 1881.54
+but it's very expensive
+to build something like that.
+
+1881.58 --> 1883.21
+And more importantly, you know,
+
+1883.25 --> 1888.92
+we are basically localizing data
+in a way that no other company has done.
+
+1888.97 --> 1892.93
+So we need to be very careful
+that whilst we are pursuing
+
+1892.93 --> 1895.51
+what we call digital sovereignty in the US
+
+1895.56 --> 1898.06
+and we are also doing
+a version of this in Europe,
+
+1898.10 --> 1899.89
+that we don't balkanize the internet.
+
+1899.94 --> 1901.39
+Now we are the first to do it.
+
+1901.44 --> 1902.90
+And I expect that, you know,
+
+1902.90 --> 1904.98
+other companies are probably
+looking at this
+
+1905.02 --> 1909.65
+and trying to figure out how you balance
+between protecting, protected data,
+
+1909.65 --> 1912.49
+you know, to make sure
+that everybody feels secure about it
+
+1912.49 --> 1915.08
+while at the same time
+allowing for interoperability
+
+1915.12 --> 1916.24
+to continue to happen,
+
+1916.29 --> 1919.29
+because that's what makes technology
+and the internet so great.
+
+1919.33 --> 1921.16
+So that's something that we are doing.
+
+1921.21 --> 1924.00
+CA: How far are you along that journey
+with Project Texas?
+
+1924.04 --> 1925.88
+SC: We are very, very far along today.
+
+1925.92 --> 1929.84
+CA: When will there be a clear you know,
+
+1929.88 --> 1932.97
+here it is, it’s done, it’s firewalled,
+this data is protected?
+
+1932.97 --> 1936.06
+SC: Today, by default, all new US data
+
+1936.06 --> 1938.56
+is already stored in the Oracle
+cloud infrastructure.
+
+1938.56 --> 1943.27
+So it's in this protected US environment
+that we talked about in the United States.
+
+1943.27 --> 1947.23
+We still have some legacy data to delete
+in our own servers in Virginia
+
+1947.27 --> 1948.44
+and in Singapore.
+
+1948.48 --> 1950.94
+Our data has never
+been stored in China, by the way.
+
+1951.49 --> 1953.70
+That deletion is a very big
+engineering effort.
+
+1953.74 --> 1956.12
+So as we said, as I said at the hearing,
+
+1956.12 --> 1958.62
+it's going to take us a while
+to delete them,
+
+1958.62 --> 1960.91
+but I expect it to be done this year.
+
+1963.79 --> 1966.84
+CA: How much power do you have
+
+1966.88 --> 1969.71
+over your own ability
+to control certain things?
+
+1969.71 --> 1972.67
+So, for example, suppose
+that, for whatever reason,
+
+1972.72 --> 1977.14
+the Chinese government was to look
+at an upcoming US election and say,
+
+1977.14 --> 1981.89
+"You know what, we would like
+this party to win," let's say,
+
+1981.93 --> 1984.64
+or "We would like civil war
+to break out" or whatever.
+
+1985.10 --> 1986.48
+How ...
+
+1986.52 --> 1987.94
+"And we could do this
+
+1987.98 --> 1992.19
+by amplifying the content of certain
+troublemaking, disturbing people,
+
+1992.24 --> 1995.03
+causing uncertainty,
+spreading misinformation," etc.
+
+1996.03 --> 2000.99
+If you were required
+via ByteDance to do this,
+
+2001.04 --> 2005.46
+like, first of all, is there a pathway
+where theoretically that is possible?
+
+2006.54 --> 2010.00
+What's your personal
+line in the sand on this?
+
+2010.05 --> 2012.59
+SC: So during the congressional hearing,
+
+2012.63 --> 2014.22
+I made four commitments,
+
+2014.22 --> 2016.43
+we talked about the first one,
+which is safety.
+
+2016.47 --> 2019.89
+The third one is to keep TikTok
+a place of freedom of expression.
+
+2019.93 --> 2021.77
+By the way, if you go on TikTok today,
+
+2021.77 --> 2023.56
+you can search for anything you want,
+
+2023.56 --> 2026.31
+as long as it doesn't violate
+our community guidelines.
+
+2026.31 --> 2029.31
+And to keep it free from any
+government manipulation.
+
+2029.32 --> 2033.44
+And the fourth one is transparency
+and third-party monitoring.
+
+2033.44 --> 2035.74
+So the way we are trying
+to address this concern
+
+2035.78 --> 2038.07
+is an unprecedented
+amount of transparency.
+
+2038.07 --> 2039.53
+What do I mean by this?
+
+2039.53 --> 2043.08
+We're actually allowing
+third-party reviewers
+
+2043.08 --> 2045.21
+to come in and review our source code.
+
+2045.21 --> 2047.96
+I don't know any other company
+that does this, by the way.
+
+2048.42 --> 2051.09
+Because everything, as you know,
+is driven by code.
+
+2051.13 --> 2053.80
+So to allow someone else
+to review the source code
+
+2053.80 --> 2056.80
+is to give this a significant
+amount of transparency
+
+2056.84 --> 2059.18
+to ensure that the scenarios
+that you described
+
+2059.22 --> 2062.72
+that are highly hypothetical,
+cannot happen on our platform.
+
+2063.06 --> 2064.22
+Now, at the same time,
+
+2064.27 --> 2068.14
+we are releasing more
+research tools for researchers
+
+2068.19 --> 2069.81
+so that they can study the output.
+
+2069.81 --> 2072.02
+So the source code is the input.
+
+2072.02 --> 2074.65
+We are also allowing researchers
+to study the output,
+
+2074.65 --> 2076.45
+which is the content on our platform.
+
+2076.49 --> 2080.57
+I think the easiest way to sort of
+fend this off is transparency.
+
+2080.57 --> 2083.33
+You know, we give people
+access to monitor us,
+
+2083.37 --> 2085.37
+and we just make it very,
+very transparent.
+
+2085.41 --> 2087.25
+And that's our approach
+to the problem.
+
+2087.25 --> 2089.50
+CA: So you will say directly to this group
+
+2089.50 --> 2091.75
+that the scenario I talked about,
+
+2091.79 --> 2096.46
+of theoretical Chinese government
+interference in an American election,
+
+2096.47 --> 2099.22
+you can say that will not happen?
+
+2099.68 --> 2102.39
+SC: I can say that we
+are building all the tools
+
+2102.39 --> 2105.31
+to prevent any of these
+actions from happening.
+
+2105.93 --> 2110.27
+And I'm very confident that with
+an unprecedented amount of transparency
+
+2110.27 --> 2111.90
+that we're giving on the platform,
+
+2111.94 --> 2116.36
+we can reduce this risk
+to as low as zero as possible.
+
+2117.40 --> 2120.16
+CA: To as low as zero as possible.
+
+2120.20 --> 2122.62
+SC: To as close to zero as possible.
+
+2122.62 --> 2124.49
+CA: As close to zero as possible.
+
+2125.45 --> 2127.37
+That's fairly reassuring.
+
+2127.83 --> 2129.00
+Fairly.
+
+2129.00 --> 2130.17
+(Laughter)
+
+2133.09 --> 2134.67
+I mean, how would the world know?
+
+2134.71 --> 2137.30
+If you discovered this
+or you thought you had to do it,
+
+2137.30 --> 2140.76
+is this a line in the sand for you?
+
+2140.80 --> 2144.39
+Like, are you in a situation you would
+not let the company that you know now
+
+2144.43 --> 2146.01
+and that you are running do this?
+
+2146.06 --> 2147.22
+SC: Absolutely.
+
+2147.27 --> 2149.98
+That's the reason why we're letting
+third parties monitor,
+
+2150.02 --> 2152.85
+because if they find out,
+you know, they will disclose this.
+
+2152.86 --> 2155.02
+We also have transparency
+reports, by the way,
+
+2155.02 --> 2157.11
+where we talk about a whole
+bunch of things,
+
+2157.15 --> 2160.70
+the content that we remove, you know,
+that violates our guidelines,
+
+2160.74 --> 2161.91
+government requests.
+
+2161.91 --> 2163.66
+You know, it's all published online.
+
+2163.66 --> 2165.41
+All you have to do is search for it.
+
+2165.41 --> 2166.87
+CA: So you're super compelling
+
+2166.91 --> 2168.66
+and likable as a CEO, I have to say.
+
+2168.66 --> 2171.08
+And I would like to, as we wrap this up,
+
+2171.12 --> 2174.38
+I'd like to give you a chance just
+to paint, like, what's the vision?
+
+2174.42 --> 2178.51
+As you look at what TikTok could be,
+
+2178.55 --> 2181.84
+let's move the clock out, say,
+five years from now.
+
+2181.88 --> 2186.39
+How should we think about your
+contribution to our collective future?
+
+2186.43 --> 2189.02
+SC: I think it's still down
+to the vision that we have.
+
+2189.06 --> 2191.85
+So in terms of the window of discovery,
+
+2191.85 --> 2194.73
+I think there's a huge
+benefit to the world
+
+2194.77 --> 2196.61
+when people can discover new things.
+
+2196.61 --> 2199.82
+You know, people think that TikTok
+is all about dancing and singing,
+
+2199.86 --> 2202.70
+and there’s nothing wrong
+with that, because it’s super fun.
+
+2202.70 --> 2204.07
+There's still a lot of that,
+
+2204.07 --> 2206.95
+but we're seeing
+science content, STEM content,
+
+2206.99 --> 2208.79
+have you about BookTok?
+
+2208.83 --> 2211.50
+It's a viral trend that talks about books
+
+2211.54 --> 2213.25
+and encourages people to read.
+
+2213.29 --> 2217.25
+That BookTok has
+120 billion views globally,
+
+2217.29 --> 2218.46
+120 billion.
+
+2218.46 --> 2219.92
+CA: Billion, with a B.
+
+2219.96 --> 2221.97
+SC: People are learning how to cook,
+
+2222.01 --> 2223.63
+people are learning about science,
+
+2223.63 --> 2225.30
+people are learning how to golf --
+
+2225.30 --> 2227.89
+well, people are watching
+videos on golfing, I guess.
+
+2227.93 --> 2229.81
+(Laughter)
+
+2230.35 --> 2233.31
+I haven't gotten better
+by looking at the videos.
+
+2233.35 --> 2237.11
+I think there's a huge, huge
+opportunity here on discovery
+
+2237.15 --> 2239.19
+and giving the everyday person a voice.
+
+2239.23 --> 2241.07
+If you talk to our creators, you know,
+
+2241.07 --> 2244.45
+a lot of people will tell you this
+again and again, that before TikTok,
+
+2244.45 --> 2246.28
+they would never have been discovered.
+
+2246.32 --> 2248.53
+And we have given them
+the platform to do that.
+
+2248.53 --> 2250.29
+And it's important to maintain that.
+
+2250.29 --> 2251.66
+Then we talk about creation.
+
+2251.66 --> 2256.04
+You know, there’s all this new technology
+coming in with AI-generated content
+
+2256.08 --> 2260.05
+that will help people create
+even more creative content.
+
+2260.05 --> 2262.51
+I think there's going to be
+a collaboration between,
+
+2262.51 --> 2265.43
+and I think there's a speaker
+who is going to talk about this,
+
+2265.47 --> 2266.64
+between people and AI
+
+2266.64 --> 2269.43
+where they can unleash
+their creativity in a different way.
+
+2269.47 --> 2272.77
+You know, like for example,
+I'm terrible at drawing personally,
+
+2272.81 --> 2275.18
+but if I had some AI to help me,
+
+2275.23 --> 2277.35
+then maybe I can express
+myself even better.
+
+2277.81 --> 2279.61
+Then we talk about bridges to connect
+
+2279.65 --> 2282.07
+and connecting people
+and the communities together.
+
+2282.07 --> 2284.32
+This could be products,
+this could be commerce,
+
+2284.32 --> 2290.03
+five million businesses in the US
+benefit from TikTok today.
+
+2290.07 --> 2292.66
+I think we can get that number
+to a much higher number.
+
+2292.66 --> 2295.75
+And of course, if you look around
+the world, including in Canada,
+
+2295.75 --> 2297.46
+that number is going to be massive.
+
+2297.46 --> 2300.29
+So I think these are the biggest
+opportunities that we have,
+
+2300.34 --> 2301.79
+and it's really very exciting.
+
+2301.80 --> 2304.01
+CA: So courtesy of your
+experience in Congress,
+
+2304.05 --> 2307.63
+you actually became a bit
+of a TikTok star yourself, I think.
+
+2308.01 --> 2310.22
+Some of your videos have gone viral.
+
+2311.05 --> 2312.56
+You've got your phone with you.
+
+2312.56 --> 2315.35
+Do you want to make a little
+little TikTok video right now?
+
+2315.35 --> 2316.52
+Let's do this.
+
+2316.56 --> 2317.77
+SC: If you don't mind ...
+
+2317.81 --> 2319.73
+CA: What do you think,
+should we do this?
+
+2319.73 --> 2322.44
+SC: We're just going to do
+a selfie together, how's that?
+
+2322.82 --> 2324.48
+So why don't we just say "Hi."
+
+2324.53 --> 2325.69
+Hi!
+
+2325.69 --> 2326.86
+Audience: Hi!
+
+2326.90 --> 2328.03
+CA: Hello from TED.
+
+2328.41 --> 2330.62
+SC: All right, thank you,
+I hope it goes viral.
+
+2330.66 --> 2333.45
+(Laughter)
+
+2333.49 --> 2337.16
+CA: If that one goes viral, I think
+I've given up on your algorithm, actually.
+
+2337.21 --> 2338.75
+(Laughter)
+
+2340.42 --> 2343.17
+Shou Chew, you're one
+of the most influential
+
+2343.21 --> 2346.09
+and powerful people in the world,
+whether you know it or not.
+
+2346.09 --> 2348.88
+And I really appreciate you coming
+and sharing your vision.
+
+2348.88 --> 2352.43
+I really, really hope the upside
+of what you're talking about comes about.
+
+2352.47 --> 2354.18
+Thank you so much for coming today.
+
+2354.18 --> 2355.35
+SC: Thank you, Chris.
+
+2355.39 --> 2356.77
+CA: It's really interesting.
+
+2356.77 --> 2358.39
+(Applause)
+
